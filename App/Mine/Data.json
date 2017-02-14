@@ -1,0 +1,44 @@
+[
+    {
+        "sectionID":0,
+        "rows":[
+            {
+                "image":"icon_mine_wallet",
+                "title":"钱包 "
+            }
+        ]
+    },
+    {
+        "sectionID":1,
+        "rows":[
+            {
+                "image":"icon_mine_assert",
+                "title":"资产统计 "
+            }
+        ]
+    },
+    {
+        "sectionID":2,
+        "rows":[
+            {
+                "image":"icon_mine_order",
+                "title":"我的订单 "
+            }
+        ]
+    },
+    {
+        "sectionID":3,
+        "rows":[
+            {
+                "image":"icon_mine_tel",
+                "title":"电话客服",
+                "detail":"交易日 9:00--18:00"
+            },
+            {
+                "image":"icon_mine_about",
+                "title":"关于我们"
+            }
+
+        ]
+    }
+]
